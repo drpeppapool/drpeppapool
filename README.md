@@ -1,6 +1,6 @@
 ### Royg Garcia
 
-Software engineer pivoting from full-stack web into applied AI (local-first LLM agents).
+Software engineer into applied AI (local-first LLM agents).
 
 - Currently: full-stack contractor on a trip-planning app (React, Go, Kubernetes)
 - Focus: LLM agents that delegate logic to tools/code, and local models on consumer hardware
